@@ -25,7 +25,8 @@ var server = http.createServer(app);
  * Listen on provided port, on all network interfaces.
  */
 
-const IP_ADDRESS = '10.0.0.105'; // Replace with your desired IP address
+const IP_ADDRESS = '127.0.0.1'
+// || '10.0.0.105'; // Replace with your desired IP address
 
 server.listen(3000, IP_ADDRESS, () => {
   console.log(`Server running at http://${IP_ADDRESS}:3000/`);

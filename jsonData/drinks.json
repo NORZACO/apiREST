@@ -1,1 +1,36 @@
-[{"name":"Iced Coffee","ingredients":["coffee","ice","milk","sugar"],"description":"A refreshing drink for a hot day","id":1},{"name":"Iced Coffee","ingredients":["coffee","ice","milk","sugar"],"description":"A refreshing drink for a hot day","id":2},{"name":"Mwamuzi Shadrick","ingredients":"6jh","description":"jfgjgj","id":3},{"name":"Mwamuzi Shadrick","ingredients":"6jh","description":"jfgjgj","id":4}]
+[
+    {
+        "name": "Iced Coffee",
+        "ingredients": [
+            "coffee",
+            "ice",
+            "milk",
+            "sugar"
+        ],
+        "description": "A refreshing drink for a hot day",
+        "id": 1
+    },
+    {
+        "name": "Iced Coffee",
+        "ingredients": [
+            "coffee",
+            "ice",
+            "milk",
+            "sugar"
+        ],
+        "description": "A refreshing drink for a hot day",
+        "id": 2
+    },
+    {
+        "name": "Mwamuzi Shadrick",
+        "ingredients": "6jh",
+        "description": "jfgjgj",
+        "id": 3
+    },
+    {
+        "name": "Mwamuzi Shadrick",
+        "ingredients": "6jh",
+        "description": "jfgjgj",
+        "id": 4
+    }
+]
